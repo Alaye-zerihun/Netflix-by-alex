@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import Logo from '../../assets/images/image.png'; 
-import './header.css';
+import './Header.css';
 import SearchIcon from '@mui/icons-material/Search';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
