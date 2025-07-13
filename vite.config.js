@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Netflix-by-alex/', // <--- this line is critical
+  base: '/', // <--- this line is critical
   plugins: [react()],
 })
